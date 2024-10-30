@@ -1,0 +1,32 @@
+.ilovexm24_content {
+	font-family: Helvetica; 
+	font-weight: bolder; 
+	font-size: 1.4em; 
+	width: 200px;
+	text-align: center;
+	line-height: 50px;
+	letter-spacing: 1px;
+	color: red;
+	transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+	position: fixed;
+	box-shadow: 0 0 10px rgba(0,0,0,.3);
+	top: 25px;
+	right: -50px;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	background: #FFF;
+	z-index:9999;
+}
+
+.ilovexm24_link, 
+.ilovexm24_link:hover {
+	color: #000;
+}
+
+.ilovexm24_link .love, 
+.ilovexm24_link:hover .love {
+	color: #FF0000;
+}
+
+
